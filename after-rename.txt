@@ -1,0 +1,1 @@
+proves the sync reached the repo after renaming
